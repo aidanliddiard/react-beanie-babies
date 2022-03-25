@@ -26,7 +26,6 @@ export default function BeanieDetail() {
 
   return (
     <>
-      <h1>Baby</h1>
       {/* Feel free to uncomment and use the below code--but you'll need to figure out how to keep it from blowing up on load */}
 
       <Link to="/">Home</Link>
